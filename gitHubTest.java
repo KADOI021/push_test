@@ -5,5 +5,6 @@ public class gitHubTest {
 		System.out.println("Test GitHub");
 		System.out.println("this text was added on GitHub");
 		System.out.println("今度は、TortoseGitでpushしてみるよ。");
+		System.out.println("TortoseGitでpush確認したよ。pullしてね。");
 	}
 }
